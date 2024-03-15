@@ -15,6 +15,7 @@
     wget
     gh
     git
+    lazygit
   ];
   users.users.chrisj = {
     isNormalUser = true;
